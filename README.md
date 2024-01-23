@@ -4,13 +4,14 @@
     <b> RAVI'S STORE </b><br>
 </head>
 <body>
+    <b> T-shirts </b>
     <img src="t-shirts.jpg" 
     width="100px" height="100px"> 
-    <b> T-shirts </b>
+    <b> Shirts </b>
     <img src="shirts.jpg"
     width="100px" height="100px">
-    <b> Shirts </b>
+    <b> Traditionals </b>
     <img src="traditional.jpeg"
     width="100px" height="100px">
-    <b> Traditionals </b>
 </body>
+</html>
