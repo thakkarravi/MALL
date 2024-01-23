@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <b> RAVI'S STORES </b><br>
+    <b> RAVI'S STORESD </b><br>
 </head>
 <body>
     <b> T-shirts </b>
