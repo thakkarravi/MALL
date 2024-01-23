@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <b> STORE </b><br>
+    <b> RAVI'S STORE </b><br>
 </head>
 <body>
     <img src="t-shirts.jpg" 
