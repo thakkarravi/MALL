@@ -4,7 +4,7 @@
     <b> STORE </b><br>
 </head>
 <body>
-    <img src="t-shirts.jpg" 
+    <img src="t-shirts.jpg,shirts.jpg"
     width="100px" height="100px"> 
     <b> T-shirts </b>
     <img src="shirts.jpg"
