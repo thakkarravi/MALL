@@ -4,7 +4,13 @@
     <b> STORE </b><br>
 </head>
 <body>
-    <img src="t-shirts.jpg" src="shirts.jpg"
+    <img src="t-shirts.jpg" 
     width="100px" height="100px"> 
     <b> T-shirts </b>
+    <img src="shirts.jpg"
+    width="100px" height="100px">
+    <b> Shirts </b>
+    <img src="traditional.jpeg"
+    width="100px" height="100px">
+    <b> Traditionals </b>
 </body>
